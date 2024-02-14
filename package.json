@@ -1,0 +1,23 @@
+{
+  "name": "templater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10",
+    "docx-pdf": "^0.0.1",
+    "docx2pdf-converter": "^1.0.2",
+    "docxtemplater": "^3.17.0",
+    "html-to-image-node": "^1.11.13",
+    "node-html-to-image": "^4.0.0",
+    "open-docxtemplater-image-module": "^1.0.3",
+    "pizzip": "^3.1.6",
+    "xmldom": "^0.6.0"
+  }
+}
